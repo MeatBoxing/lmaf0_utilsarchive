@@ -1,0 +1,1 @@
+made to spam discord channels with messages on different channels and accounts at once. uses async
