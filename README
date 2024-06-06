@@ -1,0 +1,13 @@
+utils provided by lmafo_ or lmafo#9844
+
+i will not be updating them. this is purely an archive.
+
+the code was made a few months ago so some scripts might not work.
+
+everything except for discordspammer(mostly) were made to be used aganist the McSpeed server.
+
+everything except for discordspammer are for dynmap/dynamic map plugin in minecraft
+
+to find your url go to the website that hosts the dynmap. then open dev tools/inspect element via ctrl + shift + i then open network tools and check for fetch requests. find the right one and copy the url and set it to the url var.
+
+06/06/2024
