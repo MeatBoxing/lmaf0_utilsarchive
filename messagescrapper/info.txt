@@ -1,0 +1,5 @@
+made for scrapping dynmap messages and saving it to a file
+
+note: script hasnt been tested. may or may not work.
+
+to find your url go to the website that hosts the dynmap. then open dev tools/inspect element via ctrl + shift + i then open network tools and check for fetch requests. find the right one and copy the url and set it to the url var.
