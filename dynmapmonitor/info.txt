@@ -1,0 +1,3 @@
+change the url var in data_processing.py to your dynmap url.
+
+to find your url go to the website that hosts the dynmap. then open dev tools/inspect element via ctrl + shift + i then open network tools and check for fetch requests. find the right one and copy the url and set it to the url var.
